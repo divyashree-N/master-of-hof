@@ -1,0 +1,24 @@
+h1 {
+    display: inline-block;
+  }
+
+  .display-box{
+    border: 1px solid black;
+    width:600px;
+  }
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  p{
+      margin-left: 20px;
+  }
+  
+  span {
+    margin-right: 30px;
+    color: blue;
+  }
